@@ -1,0 +1,509 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575.98px) {
+    body {
+        width: 101%;
+        height: auto;
+    }
+    body::-webkit-scrollbar {
+        display: none;
+    }
+    body::-webkit-scrollbar-thumb {
+        display: none;
+    }
+    /* VITRINE */
+    #vitrine .img-vitrine {
+        width: 100%;
+        height: auto;
+    }
+    /* VANTAGENS */
+    #vantagens .titulo-vantagens {
+        color: black;
+        font-size: 18px;
+        font-weight: bolder;
+        text-align: center;
+        margin: 0px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    #vantagens .vantagem-1 {
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    #vantagens .vantagem-2 {
+        padding: 10px;
+        text-align: center;
+        border-style: none;
+        margin-bottom: 20px;
+    }
+    #vantagens .vantagem-3 {
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    #vantagens .icon-vantagens {
+        width: 100%;
+        height: 100%;
+        max-width: 60px;
+        max-height: 60px;
+    }
+    #vantagens .descricao-vantagem {
+        font-size: 16px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    /* COMPARACAO */
+    #comparacao {
+        height: 450px;
+    }
+    #comparacao .titulo-comparacao {
+        color: black;
+        font-size: 40px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #comparacao .descricao-comparacao {
+        font-size: 15px;
+        text-align: center;
+    }
+    #comparacao .img-comparacao {
+        width: 100vw;
+        height: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #comparacao .botao-comparacao {
+        position: relative;
+        top: 305px;
+        width: 250px;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        border: 0px;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* PRECOS */
+    #precos {
+        background-color: #ddd9ce;
+        height: 500px;
+    }
+    #precos .titulo-sessao {
+        color: black;
+        font-size: 21px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #precos .card {
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    /* PASSO A PASSO */
+    #passo-a-passo {
+        background-color: #ddd9ce;
+        height: 950px;
+    }
+    #passo-a-passo .lista-passo-a-passo .row {
+        height: 100px;
+    }
+    #passo-a-passo .titulo-sessao {
+        position: relative;
+        top: 360px;
+        font-size: 20px;
+        font-weight: bolder;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    #passo-a-passo .ordenacao-passo-a-passo {
+        font-size: 50px;
+        font-weight: bolder;
+        margin-bottom: 0px;
+    }
+    #passo-a-passo .descricao-passo-a-passo {
+        position: relative;
+        font-size: 15px;
+        font-weight: bolder;
+        text-align: justify;
+        margin-top: auto !important;
+        margin-bottom: auto !important;
+    }
+    #passo-a-passo .lista-passo-a-passo {
+        position: relative;
+        top: 350px;
+        padding-left: 0px;
+    }
+    #passo-a-passo .botao-comparacao {
+        width: 250px;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        border: 0px;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: auto;
+    }
+    #passo-a-passo .img-passo-a-passo {
+        display: none;
+    }
+    /* FORMULARIO */
+    div.bootbox.modal.fade.show div div div.modal-header h5 {
+        color: black;
+        font-size: 17px;
+        font-weight: bolder;
+        margin: 0px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    body {
+        width: 101%;
+        height: auto;
+    }
+    /* VITRINE */
+    #vitrine .titulo-descricao {
+        color: #ff8b3e;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+    #vitrine .descricao {
+        color: #ff8b3e;
+        font-size: 16px;
+    }
+    /* VANTAGENS */
+    #vantagens .titulo-vantagens {
+        color: black;
+        font-size: 25px;
+        font-weight: bolder;
+        text-align: center;
+        margin: 0px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    #vantagens .vantagem-1 {
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    #vantagens .vantagem-2 {
+        padding: 10px;
+        text-align: center;
+        border-style: none;
+        margin-bottom: 20px;
+    }
+    #vantagens .vantagem-3 {
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    #vantagens .icon-vantagens {
+        width: 100%;
+        height: 100%;
+        max-width: 60px;
+        max-height: 60px;
+    }
+    #vantagens .descricao-vantagem {
+        font-size: 18px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    /* COMPARACAO */
+    #comparacao {
+        height: 450px;
+    }
+    #comparacao .titulo-comparacao {
+        color: black;
+        font-size: 40px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #comparacao .descricao-comparacao {
+        color: 666666;
+        font-size: 15px;
+        text-align: center;
+    }
+    #comparacao .img-comparacao {
+        width: 100vw;
+        height: 100wh;
+        max-width: 450px;
+        max-height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #comparacao .botao-comparacao {
+        position: relative;
+        top: 360px;
+        width: 250px;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        border: 0px;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* PRECOS */
+    #precos {
+        background-color: #ddd9ce;
+        height: 500px;
+    }
+    #precos .titulo-sessao {
+        color: black;
+        font-size: 30px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #precos .card {
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    /* PASSO A PASSO */
+    #passo-a-passo {
+        background-color: #ddd9ce;
+        height: 1010px;
+    }
+    #passo-a-passo .lista-passo-a-passo .row {
+        height: 100px;
+    }
+    #passo-a-passo .titulo-sessao {
+        position: relative;
+        top: 400px;
+        font-size: 30px;
+        font-weight: bolder;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    #passo-a-passo .ordenacao-passo-a-passo {
+        font-size: 80px;
+        font-weight: bolder;
+        margin-bottom: 0px;
+    }
+    #passo-a-passo .descricao-passo-a-passo {
+        position: relative;
+        font-size: 20px;
+        font-weight: bolder;
+        text-align: justify;
+        margin-top: auto !important;
+        margin-bottom: auto !important;
+    }
+    #passo-a-passo .lista-passo-a-passo {
+        position: relative;
+        top: 380px;
+        padding-left: 0px;
+    }
+    #passo-a-passo .botao-comparacao {
+        width: 250px;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        border: 0px;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: auto;
+    }
+    #passo-a-passo .img-passo-a-passo {
+        display: none;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    body {
+        width: 101%;
+        height: auto;
+    }
+    /* VITRINE */
+    #vitrine .titulo-descricao {
+        color: #ff8b3e;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+    #vitrine .descricao {
+        color: #ff8b3e;
+        font-size: 16px;
+    }
+    /* VANTANGENS */
+    #vantagens .titulo-vantagens {
+        color: black;
+        font-size: 28px;
+        font-weight: bolder;
+        text-align: center;
+        margin: 0px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    #vantagens .icon-vantagens {
+        width: 100%;
+        height: 100%;
+        max-width: 60px;
+        max-height: 60px;
+    }
+    #vantagens .descricao-vantagem {
+        font-size: 16px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    /* COMPARACAO */
+    #comparacao .titulo-comparacao {
+        color: black;
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #comparacao .descricao-comparacao {
+        color: 666666;
+        font-size: 18px;
+        text-align: center;
+    }
+    #comparacao .img-comparacao {
+        width: 100vw;
+        height: 100wh;
+        max-width: 450px;
+        max-height: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #comparacao .botao-comparacao {
+        position: relative;
+        top: 340px;
+        width: 250px;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        border: 0px;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /* PRECOS */
+    #precos {
+        background-color: #ddd9ce;
+        height: 500px;
+    }
+    #precos .titulo-sessao {
+        color: black;
+        font-size: 40px;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #precos .card {
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    /* PASSO A PASSO */
+    #passo-a-passo {
+        background-color: #ddd9ce;
+        height: 1115px;
+    }
+    #passo-a-passo .lista-passo-a-passo .row {
+        height: 120px;
+    }
+    #passo-a-passo .titulo-sessao {
+        position: relative;
+        top: 400px;
+        font-size: 33px;
+        font-weight: bolder;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    #passo-a-passo .ordenacao-passo-a-passo {
+        font-size: 100px;
+        font-weight: bolder;
+        margin-bottom: 0px;
+    }
+    #passo-a-passo .descricao-passo-a-passo {
+        position: relative;
+        font-size: 25px;
+        font-weight: bolder;
+        text-align: justify;
+        margin-top: auto !important;
+        margin-bottom: auto !important
+    }
+    #passo-a-passo .lista-passo-a-passo {
+        position: relative;
+        top: 380px;
+        padding-left: 0px;
+    }
+    #passo-a-passo .botao-comparacao {
+        width: 250px;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        font-weight: bolder;
+        border: 0px;
+        border-radius: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin: auto;
+    }
+    #passo-a-passo .img-passo-a-passo {
+        display: none;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    body {
+        width: 101%;
+        height: auto;
+    }
+    /* VITRINE */
+    #vitrine .titulo-descricao {
+        color: #ff8b3e;
+        font-size: 26px;
+        font-weight: bolder;
+    }
+    #vitrine .descricao {
+        color: #ff8b3e;
+        font-size: 22px;
+    }
+    /* PASSO A PASSO */
+    #passo-a-passo .lista-passo-a-passo {
+        padding-left: 0px;
+    }
+    #passo-a-passo .descricao-passo-a-passo {
+        font-size: 19px;
+        font-weight: bolder;
+        text-align: justify;
+    }
+    #passo-a-passo .img-passo-a-passo {
+        position: relative;
+        top: 0px;
+        right: 1vw;
+        width: 108%;
+        height: 100%;
+    }
+}
