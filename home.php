@@ -164,6 +164,10 @@
                     </div>
                 </div>
             </div>
+            <br>
+            <div class="row">
+                <a href="#" class="btn_consultar">Visualizar Todos</a>
+            </div>
         </div>
     </section>
 

@@ -116,6 +116,12 @@ a.nav-link.active {
     margin: 10px auto;
 }
 
+#produtos .card {
+    border: 0px;
+    border-radius: 0px;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+}
+
 /* COMPONENTES */
 
 .whatsapp {
