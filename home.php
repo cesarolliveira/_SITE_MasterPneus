@@ -166,8 +166,115 @@
             </div>
             <br>
             <div class="row">
-                <a href="#" class="btn_consultar">Visualizar Todos</a>
+                <a href="<?php echo Link::getBase(); ?>produtos" class="btn_consultar">Visualizar Todos</a>
             </div>
+        </div>
+    </section>
+
+    <section id="depoimentos">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                    <h2 class="titulo_depoimentos">DEPOIMENTOS</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                    <div id="carousel-depoimentos" class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
+                                                    <img class="img-depoimentos" src="/_PLATAFORMA_Priorita/cms/modulo/depoimentos/img/310121065214497624292.png" alt="imagem Depoimento">
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
+                                                    <h3 class="titulo-depoimentos">Jaqueline Azevedo</h3>
+                                                    <p class="descricao-depoimentos">Duis pharetra porttitor tortor elementum condimentum vehicula aenean ornare habitant purus vehicula, sagittis quis por</p>
+                                                    <p class="data-depoimentos">05/12/2020</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
+                                                    <img class="img-depoimentos" src="/_PLATAFORMA_Priorita/cms/modulo/depoimentos/img/310121065214497624292.png" alt="imagem Depoimento">
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
+                                                    <h3 class="titulo-depoimentos">Jorge Luiz</h3>
+                                                    <p class="descricao-depoimentos">Duis pharetra porttitor tortor elementum condimentum vehicula aenean ornare habitant purus vehicula, sagittis quis por</p>
+                                                    <p class="data-depoimentos">05/12/2020</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
+                                                    <img class="img-depoimentos" src="/_PLATAFORMA_Priorita/cms/modulo/depoimentos/img/310121065214497624292.png" alt="imagem Depoimento">
+                                                </div>
+                                                <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
+                                                    <h3 class="titulo-depoimentos">Luiz Carlos</h3>
+                                                    <p class="descricao-depoimentos">Duis pharetra porttitor tortor elementum condimentum vehicula aenean ornare habitant purus vehicula, sagittis quis por</p>
+                                                    <p class="data-depoimentos">05/12/2020</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="newsletter">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+                    <form id="formNewsletter" action="/_PLATAFORMA_Priorita/source/newsletter/add/adicionar-newsletter.php" method="post" novalidate="novalidate">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-5 col-xl-5 col-xxl-5 my-auto">
+                                <p class="descricao-newsletter">Fique por dentro de todas as nossas novidades!</p>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
+                                <input type="text" name="nome_newsletter" id="nome_newsletter" class="form-control" placeholder="Nome">
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
+                                <input type="text" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="E-mail">
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-1 col-xl-1 col-xxl-1 my-auto">
+                                <button type="submit" class="botao-newsletter">Enviar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="maps">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
+            <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Rua%20das%20Violetas%20686.%20Cuiab%C3%A1+()&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
         </div>
     </section>
 

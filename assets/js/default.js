@@ -1,5 +1,16 @@
 $(document).ready(function () {
-    $('.owl-carousel').owlCarousel({
+    // SCROLL SUAVE
+    $('#navigation a[href^="#"]').on('click', function (e) {
+        e.preventDefault();
+        var id = $(this).attr('href');
+        var targetOffset = $(id).offset().top;
+
+        $('html, body').animate({
+            scrollTop: targetOffset - 68
+        }, 700);
+    });
+
+    $('#marcas-pneus .owl-carousel').owlCarousel({
         loop: true,
         autoplay: true,
         margin: 10,
@@ -21,7 +32,35 @@ $(document).ready(function () {
                 items: 6
             }
         }
-    })
+    });
+
+    $('#carousel-depoimentos').owlCarousel({
+        loop: true,
+        nav: false,
+        margin: 10,
+        autoplay: true,
+        animateOut: 'fadeOut',
+        responsive: {
+            0: {
+                items: 1
+            },
+            576: {
+                items: 1
+            },
+            768: {
+                items: 1
+            },
+            992: {
+                items: 1
+            },
+            1200: {
+                items: 1
+            },
+            1400: {
+                items: 1
+            }
+        }
+    });
 });
 
 // ##### CLASSE Default ##### //

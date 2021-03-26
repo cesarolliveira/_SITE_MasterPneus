@@ -13,16 +13,10 @@
                         <a class="nav-link active" href="<?php echo Link::getBase(); ?>">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/sobre-nos">Sobre Nós</a>
+                        <a class="nav-link active" href="#produtos">Produtos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/blog">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="/loja">Loja</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="/#contato">Contato</a>
+                        <a class="nav-link active" href="#maps">Contato</a>
                     </li>
                 </ul>
             </div>

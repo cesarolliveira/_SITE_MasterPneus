@@ -42,6 +42,7 @@
     <link href="<?php echo Link::getBase(); ?>assets/vendor/jquery-loading/src/loading.css" rel="stylesheet">
     <link href="<?php echo Link::getBase(); ?>assets/vendor/toastr/toastr.min.css" rel="stylesheet">
     <link href="<?php echo Link::getBase(); ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="<?php echo Link::getBase(); ?>assets/vendor/animate/animate.min.css" rel="stylesheet">
 
     <!-- Global site tag (gtag.js) - Google Ads: 481615578 -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=AW-481615578"></script>
