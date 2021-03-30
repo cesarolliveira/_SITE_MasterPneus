@@ -17,10 +17,10 @@
                <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                          <div class="card">
-                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-pirelli-aro-16-scorpion-atr-205-60r16-92h-1.jpg" class="card-img-top" alt="img_produto">
+                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneu-road-cruize.jpeg" class="img_card" alt="img_produto">
                               <div class="card-body">
-                                   <h5 class="card-title">PNEU PIRELLI ARO 16 SCORPION ATR 205/60R16 92H</h5>
-                                   <p class="card-text">Original Chevrolet Spin Activ / Citroen Aircross / Fiat Strada Adventure / Ford EcoSport / Suzuki S-Cross</p>
+                                   <h5 class="card-title text-center">PNEU ROAD CRUIZE VÁRIAS MEDIDAS DO ARO 14 AO 18</h5>
+                                   <p class="card-text text-center">Pneu misto off roud indicado pra asfalto e terra com durabilidade e conforto</p>
                                    <div class="row">
                                         <a href="#" class="btn_consultar">Consultar Valor</a>
                                    </div>
@@ -29,10 +29,11 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                          <div class="card">
-                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-pirelli-aro-16-scorpion-atr-205-60r16-92h-1.jpg" class="card-img-top" alt="img_produto">
+                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneu-xbri-Brutus.jpeg" class="img_card" alt="img_produto">
                               <div class="card-body">
-                                   <h5 class="card-title">PNEU PIRELLI ARO 16 SCORPION ATR 205/60R16 92H</h5>
-                                   <p class="card-text">Original Chevrolet Spin Activ / Citroen Aircross / Fiat Strada Adventure / Ford EcoSport / Suzuki S-Cross</p>
+                                   <h5 class="card-title text-center">PNEU XBRI BRUTUS</h5>
+                                   <br>
+                                   <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                                    <div class="row">
                                         <a href="#" class="btn_consultar">Consultar Valor</a>
                                    </div>
@@ -41,10 +42,10 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                          <div class="card">
-                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-pirelli-aro-16-scorpion-atr-205-60r16-92h-1.jpg" class="card-img-top" alt="img_produto">
+                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-bf.jpeg" class="img_card" alt="img_produto">
                               <div class="card-body">
-                                   <h5 class="card-title">PNEU PIRELLI ARO 16 SCORPION ATR 205/60R16 92H</h5>
-                                   <p class="card-text">Original Chevrolet Spin Activ / Citroen Aircross / Fiat Strada Adventure / Ford EcoSport / Suzuki S-Cross</p>
+                                   <h5 class="card-title text-center">PNEUS BF GOODRUCH VÁRIOS TAMANHOS</h5>
+                                   <p class="card-text text-center"></p>
                                    <div class="row">
                                         <a href="#" class="btn_consultar">Consultar Valor</a>
                                    </div>
@@ -56,10 +57,10 @@
                <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                          <div class="card">
-                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-pirelli-aro-16-scorpion-atr-205-60r16-92h-1.jpg" class="card-img-top" alt="img_produto">
+                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-para-tratores.jpeg" class="img_card" alt="img_produto">
                               <div class="card-body">
-                                   <h5 class="card-title">PNEU PIRELLI ARO 16 SCORPION ATR 205/60R16 92H</h5>
-                                   <p class="card-text">Original Chevrolet Spin Activ / Citroen Aircross / Fiat Strada Adventure / Ford EcoSport / Suzuki S-Cross</p>
+                                   <h5 class="card-title text-center">PNEUS PRA TRATORES</h5>
+                                   <p class="card-text text-center"></p>
                                    <div class="row">
                                         <a href="#" class="btn_consultar">Consultar Valor</a>
                                    </div>
@@ -68,10 +69,10 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                          <div class="card">
-                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-pirelli-aro-16-scorpion-atr-205-60r16-92h-1.jpg" class="card-img-top" alt="img_produto">
+                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-para-maquinas.jpeg" class="img_card" alt="img_produto">
                               <div class="card-body">
-                                   <h5 class="card-title">PNEU PIRELLI ARO 16 SCORPION ATR 205/60R16 92H</h5>
-                                   <p class="card-text">Original Chevrolet Spin Activ / Citroen Aircross / Fiat Strada Adventure / Ford EcoSport / Suzuki S-Cross</p>
+                                   <h5 class="card-title text-center">PNEUS PARA MÁQUINAS</h5>
+                                   <p class="card-text text-center"></p>
                                    <div class="row">
                                         <a href="#" class="btn_consultar">Consultar Valor</a>
                                    </div>
@@ -80,10 +81,10 @@
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                          <div class="card">
-                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-pirelli-aro-16-scorpion-atr-205-60r16-92h-1.jpg" class="card-img-top" alt="img_produto">
+                              <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-para-carga.jpeg" class="img_card" alt="img_produto">
                               <div class="card-body">
-                                   <h5 class="card-title">PNEU PIRELLI ARO 16 SCORPION ATR 205/60R16 92H</h5>
-                                   <p class="card-text">Original Chevrolet Spin Activ / Citroen Aircross / Fiat Strada Adventure / Ford EcoSport / Suzuki S-Cross</p>
+                                   <h5 class="card-title text-center">PNEUS PARA CARGA</h5>
+                                   <p class="card-text text-center"></p>
                                    <div class="row">
                                         <a href="#" class="btn_consultar">Consultar Valor</a>
                                    </div>
@@ -123,7 +124,7 @@
 
      <section id="maps">
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-               <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=520&amp;height=400&amp;hl=en&amp;q=Rua%20das%20Violetas%20686.%20Cuiab%C3%A1+()&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.0155518072283!2d-56.18582818514683!3d-15.644160289144791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTXCsDM4JzM5LjAiUyA1NsKwMTEnMDEuMSJX!5e0!3m2!1spt-BR!2sbr!4v1617060670731!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>
      </section>
 

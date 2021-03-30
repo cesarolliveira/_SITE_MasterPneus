@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CredFacilitado</title>
+    <title>Master Pneus</title>
 
     <!-- Meta Tags -->
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
