@@ -10,13 +10,13 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/1.png" alt="Primeiro Slide">
+                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/img-vitrine-1.jpeg" alt="Primeiro Slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/1.png" alt="Segundo Slide">
+                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/img-vitrine-1.jpeg" alt="Segundo Slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/1.png" alt="Terceiro Slide">
+                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/img-vitrine-1.jpeg" alt="Terceiro Slide">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -41,19 +41,22 @@
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                     <div class="owl-carousel owl-theme">
                         <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/header/logo.png" alt="Marca 1">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/bridgestone.png" alt="Marca 1">
                         </div>
                         <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/header/logo.png" alt="Marca 2">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/durable.png" alt="Marca 2">
                         </div>
                         <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/header/logo.png" alt="Marca 3">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/goodride.png" alt="Marca 3">
                         </div>
                         <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/header/logo.png" alt="Marca 4">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/goodyear.png" alt="Marca 4">
                         </div>
                         <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/header/logo.png" alt="Marca 5">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/milhelin.png" alt="Marca 5">
+                        </div>
+                        <div class="item">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/xbri.png" alt="Marca 5">
                         </div>
                     </div>
                 </div>
@@ -66,15 +69,15 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 text-center">
                     <i class="far fa-credit-card"></i>
-                    <p class="descricao-forma-pagamento">Em até 6x sem juros Cartão de Crédito</p>
+                    <p class="descricao-forma-pagamento">Em até 12x sem juros Cartão de Crédito</p>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 text-center">
                     <i class="fas fa-truck"></i>
-                    <p class="descricao-forma-pagamento">FRETE GRÁTIS acima de R$ 299,00 pelos correios</p>
+                    <p class="descricao-forma-pagamento">FRETE GRÁTIS acima de R$ 3000,00 em pedidos</p>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4 text-center">
                     <i class="fas fa-hand-holding-usd"></i>
-                    <p class="descricao-forma-pagamento">3% de desconto para pagamento no Boleto</p>
+                    <p class="descricao-forma-pagamento">3% de desconto para pagamento à vista</p>
                 </div>
             </div>
         </div>
@@ -95,7 +98,7 @@
                             <h5 class="card-title text-center">PNEU ROAD CRUIZE VÁRIAS MEDIDAS DO ARO 14 AO 18</h5>
                             <p class="card-text text-center">Pneu misto off roud indicado pra asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a href="#" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
                             </div>
                         </div>
                     </div>
@@ -108,7 +111,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a href="#" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
                             </div>
                         </div>
                     </div>
@@ -120,7 +123,7 @@
                             <h5 class="card-title text-center">PNEUS BF GOODRUCH VÁRIOS TAMANHOS</h5>
                             <p class="card-text text-center"></p>
                             <div class="row">
-                                <a href="#" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
                             </div>
                         </div>
                     </div>
@@ -135,7 +138,7 @@
                             <h5 class="card-title text-center">PNEUS PRA TRATORES</h5>
                             <p class="card-text text-center"></p>
                             <div class="row">
-                                <a href="#" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
                             </div>
                         </div>
                     </div>
@@ -147,7 +150,7 @@
                             <h5 class="card-title text-center">PNEUS PARA MÁQUINAS</h5>
                             <p class="card-text text-center"></p>
                             <div class="row">
-                                <a href="#" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
                             </div>
                         </div>
                     </div>
@@ -159,7 +162,7 @@
                             <h5 class="card-title text-center">PNEUS PARA CARGA</h5>
                             <p class="card-text text-center"></p>
                             <div class="row">
-                                <a href="#" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
                             </div>
                         </div>
                     </div>
@@ -248,26 +251,11 @@
         </div>
     </section>
 
-    <section id="newsletter">
+    <section id="mensagem">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                    <form id="formNewsletter" action="/_PLATAFORMA_Priorita/source/newsletter/add/adicionar-newsletter.php" method="post" novalidate="novalidate">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-5 col-xl-5 col-xxl-5 my-auto">
-                                <p class="descricao-newsletter">Fique por dentro de todas as nossas novidades!</p>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                <input type="text" name="nome_newsletter" id="nome_newsletter" class="form-control" placeholder="Nome">
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                <input type="text" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="E-mail">
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-1 col-xl-1 col-xxl-1 my-auto">
-                                <button type="submit" class="botao-newsletter">Enviar</button>
-                            </div>
-                        </div>
-                    </form>
+                    <p class="descricao-mensagem">A Master pneus empresa genuinamente matogrossense que trabalha pra melhor servir com os melhores produtos e o menor preço. Temos sempre um bom negócio em pneus para você, sua empresa, fazenda ou indústria. Temos vendedores qualificados pra melhor lhe atender. Master pneus na medida da sua necessidade.</p>
                 </div>
             </div>
         </div>
