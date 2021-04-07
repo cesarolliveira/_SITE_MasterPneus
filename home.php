@@ -192,7 +192,7 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                                    <img class="img-depoimentos" src="/_PLATAFORMA_Priorita/cms/modulo/depoimentos/img/310121065214497624292.png" alt="imagem Depoimento">
+                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/Foto.jpeg" alt="imagem Depoimento">
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
                                                     <h3 class="titulo-depoimentos">Jaqueline Azevedo</h3>
@@ -212,7 +212,7 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                                    <img class="img-depoimentos" src="/_PLATAFORMA_Priorita/cms/modulo/depoimentos/img/310121065214497624292.png" alt="imagem Depoimento">
+                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/Foto.jpeg" alt="imagem Depoimento">
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
                                                     <h3 class="titulo-depoimentos">Jorge Luiz</h3>
@@ -232,7 +232,7 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                                    <img class="img-depoimentos" src="/_PLATAFORMA_Priorita/cms/modulo/depoimentos/img/310121065214497624292.png" alt="imagem Depoimento">
+                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/Foto.jpeg" alt="imagem Depoimento">
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
                                                     <h3 class="titulo-depoimentos">Luiz Carlos</h3>
