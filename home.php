@@ -170,6 +170,45 @@
             </div>
             <br>
             <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-a.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">PNEUS PRA TRATORES</h5>
+                            <p class="card-text text-center"></p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-b.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">PNEUS PARA MÁQUINAS</h5>
+                            <p class="card-text text-center"></p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-c.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">PNEUS PARA CARGA</h5>
+                            <p class="card-text text-center"></p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="row">
                 <a href="<?php echo Link::getBase(); ?>produtos" class="btn_consultar">Visualizar Todos</a>
             </div>
         </div>
