@@ -13,8 +13,8 @@ body::-webkit-scrollbar-thumb {
 #header {}
 
 #header .logo {
-    width: 100px;
-    height: 80px;
+    width: 170px;
+    height: auto;
 }
 
 nav.navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {

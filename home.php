@@ -93,37 +93,37 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneu-road-cruize.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-175-70r13-JK.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEU ROAD CRUIZE VÁRIAS MEDIDAS DO ARO 14 AO 18</h5>
-                            <p class="card-text text-center">Pneu misto off roud indicado pra asfalto e terra com durabilidade e conforto</p>
+                            <h5 class="card-title text-center">175/70r13 JK</h5>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+556533582878&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_175/70r13+JK_%0A%2AValor+R$%3A%2A+_319,00_" class="btn_consultar">R$ 319,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneu-xbri-Brutus.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-265-70r16-gt-radial-modelo-bf.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEU XBRI BRUTUS</h5>
+                            <h5 class="card-title text-center">265/70r16 gt radial modelo bf</h5>
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+556533582878&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_265/70r16+gt+radial+modelo+bf_%0A%2AValor+R$%3A%2A+_998,00_" class="btn_consultar">R$ 998,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-bf.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-265-65r17-xbri-liso.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS BF GOODRUCH VÁRIOS TAMANHOS</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">265/65r17 xbri liso</h5>
+                            <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+556533582878&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_265/65r17+xbri+liso_%0A%2AValor+R$%3A%2A+_820,00_" class="btn_consultar">R$ 820,00</a>
                             </div>
                         </div>
                     </div>
@@ -133,36 +133,37 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-para-tratores.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-195-55-15-triangle.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS PRA TRATORES</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">195/55/15 triangle</h5>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-para-maquinas.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/265-70r-16-xbri-liso.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS PARA MÁQUINAS</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">265/70r 16 xbri liso</h5>
+                            <br>
+                            <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 690,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Pneus-para-carga.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/205-55r16-triangle.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS PARA CARGA</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">205/55r16 triangle</h5>
+                            <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
                             </div>
                         </div>
                     </div>
@@ -172,36 +173,37 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-a.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/265-70r18.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS PRA TRATORES</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">265/70r18</h5>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 1250,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-b.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/175-75-14-at-ling-long.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS PARA MÁQUINAS</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">175/75/14 at ling long</h5>
+                            <br>
+                            <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 399,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-c.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/205-60r16-xbri-at.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">PNEUS PARA CARGA</h5>
-                            <p class="card-text text-center"></p>
+                            <h5 class="card-title text-center">205/60r16 xbri at</h5>
+                            <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">Consultar Valor</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 449,00</a>
                             </div>
                         </div>
                     </div>
@@ -209,8 +211,33 @@
             </div>
             <br>
             <div class="row">
-                <a href="<?php echo Link::getBase(); ?>produtos" class="btn_consultar">Visualizar Todos</a>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/175-60r14-liso-hifly.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">175/60r13 e 175/60r14 liso hifly</h5>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 259,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/245-70-16-modelo-bf-road-cruza-1100.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">245/70/16 modelo bf road cruza 1100</h5>
+                            <br>
+                            <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 739,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
+            <br>
         </div>
     </section>
 
@@ -231,12 +258,12 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/Foto.jpeg" alt="imagem Depoimento">
+                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/depoimento-01.jpeg" alt="imagem Depoimento">
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
-                                                    <h3 class="titulo-depoimentos">Jaqueline Azevedo</h3>
-                                                    <p class="descricao-depoimentos">Duis pharetra porttitor tortor elementum condimentum vehicula aenean ornare habitant purus vehicula, sagittis quis por</p>
-                                                    <p class="data-depoimentos">05/12/2020</p>
+                                                    <h3 class="titulo-depoimentos">Jéssica Executa Intelbras</h3>
+                                                    <p class="descricao-depoimentos">Gostei muito do atendimento e eficácia da equipe, e agora eu tenho um lugar de confiança para cuidar do meu bem precioso, super indico. obrigada pelo cuidado 😍🙏</p>
+                                                    <p class="data-depoimentos">09/01/2024</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -251,32 +278,12 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/Foto.jpeg" alt="imagem Depoimento">
+                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/depoimento-02.jpeg" alt="imagem Depoimento">
                                                 </div>
                                                 <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
-                                                    <h3 class="titulo-depoimentos">Jorge Luiz</h3>
-                                                    <p class="descricao-depoimentos">Duis pharetra porttitor tortor elementum condimentum vehicula aenean ornare habitant purus vehicula, sagittis quis por</p>
-                                                    <p class="data-depoimentos">05/12/2020</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                                    <div class="card">
-                                        <div class="card-body">
-                                            <div class="row">
-                                                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-auto">
-                                                    <img class="img-depoimentos" src="<?php echo Link::getBase(); ?>assets/img/depoimentos/Foto.jpeg" alt="imagem Depoimento">
-                                                </div>
-                                                <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-9 col-xxl-9 my-auto">
-                                                    <h3 class="titulo-depoimentos">Luiz Carlos</h3>
-                                                    <p class="descricao-depoimentos">Duis pharetra porttitor tortor elementum condimentum vehicula aenean ornare habitant purus vehicula, sagittis quis por</p>
-                                                    <p class="data-depoimentos">05/12/2020</p>
+                                                    <h3 class="titulo-depoimentos">Jorge Souza</h3>
+                                                    <p class="descricao-depoimentos">Excelente atendimento  ótima prestação de serviço e produtos de qualidade.</p>
+                                                    <p class="data-depoimentos">29/01/2024</p>
                                                 </div>
                                             </div>
                                         </div>
