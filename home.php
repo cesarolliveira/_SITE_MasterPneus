@@ -12,12 +12,6 @@
                 <div class="carousel-item active">
                     <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/img-vitrine-1.jpeg" alt="Primeiro Slide">
                 </div>
-                <div class="carousel-item">
-                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/img-vitrine-1.jpeg" alt="Segundo Slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="img_vitrine" src="<?php echo Link::getBase(); ?>assets/img/vitrine/img-vitrine-1.jpeg" alt="Terceiro Slide">
-                </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -309,7 +303,7 @@
 
     <section id="maps">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.0155518072283!2d-56.18582818514683!3d-15.644160289144791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTXCsDM4JzM5LjAiUyA1NsKwMTEnMDEuMSJX!5e0!3m2!1spt-BR!2sbr!4v1617060670731!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3841.9395738476264!2d-56.13503412487284!3d-15.648205884971896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM4JzUzLjUiUyA1NsKwMDcnNTYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1710808205999!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
     </section>
 
