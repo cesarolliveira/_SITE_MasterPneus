@@ -44,10 +44,7 @@
                             <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/goodride.png" alt="Marca 3">
                         </div>
                         <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/goodyear.png" alt="Marca 4">
-                        </div>
-                        <div class="item">
-                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/milhelin.png" alt="Marca 5">
+                            <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/milhelin.png" alt="Marca 4">
                         </div>
                         <div class="item">
                             <img class="img_marcas" src="<?php echo Link::getBase(); ?>assets/img/marcas/xbri.png" alt="Marca 5">
@@ -303,8 +300,8 @@
 
     <section id="maps">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3841.9395738476264!2d-56.13503412487284!3d-15.648205884971896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM4JzUzLjUiUyA1NsKwMDcnNTYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1710808205999!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-        </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3841.9394592726453!2d-56.135024824872986!3d-15.64821198497193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM4JzUzLjYiUyA1NsKwMDcnNTYuOCJX!5e0!3m2!1spt-BR!2sbr!4v1710980305493!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            </div>
     </section>
 
     <?php include_once './assets/content/components.php'; ?>

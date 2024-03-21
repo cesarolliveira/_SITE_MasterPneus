@@ -1,21 +1,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Master Pneus</title>
+    <title>Martins Pneus</title>
 
     <!-- Meta Tags -->
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta charset="utf-8">
     <meta name="author" content="Cesar de Oliveira, Coodifica">
-    <meta name="description" content="A Master pneus empresa genuinamente matogrossense que trabalha pra melhor servir com os melhores produtos e o menor preço. Temos sempre um bom negócio em pneus para você, sua empresa, fazenda ou indústria.">
-    <meta name="keywords" content="Pneus novos, pneus usados, master pneus, pneus">
+    <meta name="description" content="A Martins pneus empresa genuinamente matogrossense que trabalha pra melhor servir com os melhores produtos e o menor preço. Temos sempre um bom negócio em pneus para você, sua empresa, fazenda ou indústria.">
+    <meta name="keywords" content="Pneus novos, pneus usados, Martins pneus, pneus">
     <meta name="robots" content="index, follow">
 
-    <meta property="og:site_name" content="Master Pneus MT">
-    <meta property="og:title" content="Master Pneus MT">
-    <meta property="og:url" content="https://masterpneusmt.com.br">
-    <meta property="og:description" content="A Master pneus empresa genuinamente matogrossense que trabalha pra melhor servir com os melhores produtos e o menor preço. Temos sempre um bom negócio em pneus para você, sua empresa, fazenda ou indústria.">
-    <meta property="og:image" content="https://masterpneusmt.com.br/assets/img/favicon/android-chrome-192x192.jpeg">
+    <meta property="og:site_name" content="Martins Pneus MT">
+    <meta property="og:title" content="Martins Pneus MT">
+    <meta property="og:url" content="https://www.masterpneusoffroad.com.br">
+    <meta property="og:description" content="A Martins pneus empresa genuinamente matogrossense que trabalha pra melhor servir com os melhores produtos e o menor preço. Temos sempre um bom negócio em pneus para você, sua empresa, fazenda ou indústria.">
+    <meta property="og:image" content="https://masterpneusoffroad.com.br/assets/img/favicon/android-chrome-192x192.jpeg">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="192">
     <meta property="og:image:height" content="192">

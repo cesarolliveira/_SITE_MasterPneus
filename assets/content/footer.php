@@ -3,7 +3,7 @@
           <div class="row">
                <div class="col-xs-12 col-sm-12 col-md-7 col-lg-7 col-xl-8 col-xxl-8">
                     <p class="descricao-footer"><small class="descricao-footer">Copyright © <?php date('Y') ?> Master Pneus - Todos os direitos reservados.</small></p>
-                    <p class="descricao-footer"><small class="descricao-footer">Developed by <a class="coodifica" target="_blanck" href="https://coodifica.com.br/">Coodifica</a>.</small></p>
+                    <p class="descricao-footer"><small class="descricao-footer">Developed by <a class="coodifica" target="_blanck" href="http://bitwave.dev.br">BitWave</a>.</small></p>
                </div>
                <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 col-xl-4 col-xxl-4 my-auto">
                     <a class="redes-sociais" target="_blanck" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!">
