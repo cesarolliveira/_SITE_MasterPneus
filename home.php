@@ -124,7 +124,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-195-55-15-triangle.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/265-70r-16-xbri-liso.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
                             <h5 class="card-title text-center">195/55/15 triangle</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
@@ -136,7 +136,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/265-70r-16-xbri-liso.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-195-55-15-triangle.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
                             <h5 class="card-title text-center">265/70r 16 xbri liso</h5>
                             <br>
@@ -149,7 +149,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/205-55r16-triangle.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/265-70r-16-xbri-liso.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
                             <h5 class="card-title text-center">205/55r16 triangle</h5>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
