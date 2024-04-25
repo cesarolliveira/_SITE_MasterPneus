@@ -129,7 +129,7 @@
                             <h5 class="card-title text-center">195/55/15 triangle</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 690,00</a>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 690,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
                             </div>
                         </div>
                     </div>
@@ -176,9 +176,9 @@
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/175-75-14-at-ling-long.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-175-6013-hiflay.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">175/75/14 at ling long</h5>
+                            <h5 class="card-title text-center">175/6013 Hiflay</h5>
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
@@ -204,7 +204,7 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
                     <div class="card">
-                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/175-60r14-liso-hifly.jpeg" class="img_card" alt="img_produto">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-175-6013-hiflay.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
                             <h5 class="card-title text-center">175/60r13 e 175/60r14 liso hifly</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
