@@ -89,7 +89,7 @@
                             <h5 class="card-title text-center">175/70r13 JK</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+556533582878&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_175/70r13+JK_%0A%2AValor+R$%3A%2A+_319,00_" class="btn_consultar">R$ 319,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+5565999446610&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_175/70r13+JK_%0A%2AValor+R$%3A%2A+_319,00_" class="btn_consultar">R$ 319,00</a>
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+556533582878&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_265/70r16+gt+radial+modelo+bf_%0A%2AValor+R$%3A%2A+_998,00_" class="btn_consultar">R$ 998,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+5565999446610&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_265/70r16+gt+radial+modelo+bf_%0A%2AValor+R$%3A%2A+_998,00_" class="btn_consultar">R$ 998,00</a>
                             </div>
                         </div>
                     </div>
@@ -114,7 +114,7 @@
                             <h5 class="card-title text-center">265/65r17 xbri liso</h5>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+556533582878&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_265/65r17+xbri+liso_%0A%2AValor+R$%3A%2A+_820,00_" class="btn_consultar">R$ 820,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=+5565999446610&text=Ol%C3%A1%2C+acabei+de+visitar+o+site+e+tenho+interesse+no+seguinte+produto%3A%0A%0A%2APneu%3A%2A+_265/65r17+xbri+liso_%0A%2AValor+R$%3A%2A+_820,00_" class="btn_consultar">R$ 820,00</a>
                             </div>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             <h5 class="card-title text-center">195/55/15 triangle</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 690,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 690,00</a>
                             </div>
                         </div>
                     </div>
@@ -142,7 +142,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
                             </div>
                         </div>
                     </div>
@@ -154,7 +154,7 @@
                             <h5 class="card-title text-center">205/55r16 triangle</h5>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 339,00</a>
                             </div>
                         </div>
                     </div>
@@ -169,7 +169,7 @@
                             <h5 class="card-title text-center">265/70r18</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 1250,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 1250,00</a>
                             </div>
                         </div>
                     </div>
@@ -182,7 +182,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 399,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 399,00</a>
                             </div>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
                             <h5 class="card-title text-center">205/60r16 xbri at</h5>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 449,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 449,00</a>
                             </div>
                         </div>
                     </div>
@@ -209,7 +209,7 @@
                             <h5 class="card-title text-center">175/60r13 e 175/60r14 liso hifly</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 259,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 259,00</a>
                             </div>
                         </div>
                     </div>
@@ -222,7 +222,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=556541416616&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 739,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 739,00</a>
                             </div>
                         </div>
                     </div>
@@ -300,8 +300,8 @@
 
     <section id="maps">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3841.9394592726453!2d-56.135024824872986!3d-15.64821198497193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM4JzUzLjYiUyA1NsKwMDcnNTYuOCJX!5e0!3m2!1spt-BR!2sbr!4v1710980305493!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-            </div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3841.939295862352!2d-56.135045224872904!3d-15.648220684971928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM4JzUzLjYiUyA1NsKwMDcnNTYuOSJX!5e0!3m2!1spt-BR!2sbr!4v1716418976268!5m2!1spt-BR!2sbr" width="100%" height="350px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
     </section>
 
     <?php include_once './assets/content/components.php'; ?>
