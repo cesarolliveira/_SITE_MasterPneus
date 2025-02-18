@@ -182,7 +182,7 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 399,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 359,00</a>
                             </div>
                         </div>
                     </div>
@@ -222,13 +222,41 @@
                             <br>
                             <p class="card-text text-center">Pneus com performance excelente pra uso em estradas arenosas ou pedreiras</p>
                             <div class="row">
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 739,00</a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 980,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/175-70R14-MAXTREK-MAXIMUS-m1.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">175/70R14 MAXTREK MAXIMUS M1</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 369,00</a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <br>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/Sunset-ALL-TERRAIL-245-70R16.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">175/70R14 MAXTREK MAXIMUS M1</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 749,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
