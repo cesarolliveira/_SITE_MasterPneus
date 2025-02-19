@@ -206,7 +206,7 @@
                     <div class="card">
                         <img src="<?php echo Link::getBase(); ?>assets/img/produtos/pneu-175-6013-hiflay.jpeg" class="img_card" alt="img_produto">
                         <div class="card-body">
-                            <h5 class="card-title text-center">175/60r13 e 175/60r14 liso hifly</h5>
+                            <h5 class="card-title text-center">175/60r13 hifly</h5>
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
                                 <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 259,00</a>
@@ -252,6 +252,90 @@
                             <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
                             <div class="row">
                                 <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 749,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/remold-aro.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">REMOLD ARO 13</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 199,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/remold-aro-14.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">REMOLD ARO 14</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 225,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/235-75r15-hifly-vigouros-a-t.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">235/75r15 hifly vigouros A/T</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 728,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/235-75r15-hifly-vigouros-h-t.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">235/75R15 HIFLY VIGOUROS H/T</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 654,26</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/195-55r15-magnum-giornata-m3.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">195/55R15 MAGNUM GIORNATA M3</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 369,00</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
+                    <div class="card">
+                        <img src="<?php echo Link::getBase(); ?>assets/img/produtos/hifly-195-65r15-91h-hf261.jpeg" class="img_card" alt="img_produto">
+                        <div class="card-body">
+                            <h5 class="card-title text-center">HIFLY 195/65R15 91H HF261</h5>
+                            <br>
+                            <p class="card-text text-center">Pneu misto offroud indicado para asfalto e terra com durabilidade e conforto</p>
+                            <div class="row">
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=5565999446610&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20os%20seus%20produtos!" class="btn_consultar">R$ 476,00</a>
                             </div>
                         </div>
                     </div>
